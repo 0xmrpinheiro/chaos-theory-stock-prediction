@@ -1,7 +1,7 @@
-# Stock Market Prediction Using Physics and AI
+# Chaos Theory Stock Prediction
 
 ## Overview
-This project integrates concepts from physics and artificial intelligence to predict stock market prices. By drawing parallels from theories such as punctuated equilibrium and chaos theory, and utilizing statistical models like ARIMA, this repository offers a novel approach to understanding and forecasting market dynamics.
+This project integrates concepts from physics and statistical modeling to predict stock market prices. By drawing parallels from theories such as punctuated equilibrium and chaos theory, and utilizing ARIMA models, this repository offers a novel approach to understanding and forecasting market dynamics.
 
 ## Key Concepts
 
