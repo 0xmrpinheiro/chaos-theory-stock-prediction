@@ -100,7 +100,7 @@ To contribute:
 ## Future Enhancements
 - Web interface for easy visualization
 - Support for multiple stock symbols
-- Advanced machine learning models integration
+- Additional chaos theory models and strange attractors
 - Backtesting framework
 - Real-time data processing
 
